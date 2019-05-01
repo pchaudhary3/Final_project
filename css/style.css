@@ -1,0 +1,11 @@
+h1{
+  text-align:center;
+}
+#better{
+  float:right;
+  margin:1%;
+  font-weight:bold;
+}
+img{
+	border:2x black solid;
+}
